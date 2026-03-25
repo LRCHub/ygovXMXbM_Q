@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねこねこレスキュー隊",
+  "base_artist": "Shinsei kamattechan",
+  "createdAt": "2026-03-25T17:16:17.101280Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねこねこレスキュー隊",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_ねこねこレスキュー隊_神聖かまってちゃん.txt"
+    }
+  ]
+}
